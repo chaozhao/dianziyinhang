@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Dianziyinhang's documentation!
+电子银行营销指引
 =========================================
 
 .. toctree::
