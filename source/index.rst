@@ -12,7 +12,9 @@
     :glob:
     :caption: 全付通
     
-    全付通/qft
+    全付通/产品介绍
+    全付通/个体户商户进件
+    全付通/公司类商户进件
 
 .. toctree::
     :numbered:
