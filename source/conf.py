@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Dianziyinhang'
+project = '电子银行产品营销指引'
 copyright = '2019, Chao'
 author = 'Chao'
 

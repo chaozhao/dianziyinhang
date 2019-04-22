@@ -8,6 +8,7 @@
 
 .. toctree::
     :numbered:
+    :maxdepth: 2
     :caption: 全付通
     
     全付通/index
@@ -16,6 +17,7 @@
 
 .. toctree::
     :numbered:
+    :maxdepth: 2
     :caption: 信e付
     
     信e付/index
@@ -24,6 +26,7 @@
 
 .. toctree::
     :numbered:
+    :maxdepth: 2
     :caption: 间联POS
     
     间联POS/index
