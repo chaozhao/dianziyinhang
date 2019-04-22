@@ -1,12 +1,8 @@
-This is a Title index
-===============
-That has a paragraph about a main subject and is set when the '='
-is at least the same length of the title itself.
+全付通营销指引
+=============
 
-Subject Subtitle
-----------------
-Subtitles are set with '-' and are required to have the same length
-of the subtitle itself, just like titles.
+产品介绍
+--------
 
 Lists can be unnumbered like:
 

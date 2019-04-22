@@ -22,7 +22,7 @@ copyright = '2019, Chao'
 author = 'Chao'
 
 # The full version, including alpha/beta/rc tags
-release = '\x16'
+release = 'v1.0'
 
 
 # -- General configuration ---------------------------------------------------
