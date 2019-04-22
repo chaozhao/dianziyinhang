@@ -12,8 +12,7 @@
     :glob:
     :caption: 全付通
     
-    全付通/index
-    全付通/hello
+    全付通/qft
 
 .. toctree::
     :numbered:
@@ -21,7 +20,6 @@
     :glob:
     :caption: 信e付
     
-    信e付/index
     信e付/hello
 
 .. toctree::
@@ -30,5 +28,4 @@
     :glob:
     :caption: 间联POS
     
-    间联POS/index
     间联POS/hello  
