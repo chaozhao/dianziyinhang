@@ -4,19 +4,27 @@
    contain the root `toctree` directive.
 
 test，a title
-=========================================
+=============
 
 .. toctree::
-    :maxdepth: 2
-    :caption: Contents:
-
+    :numbered:
+    :caption: 全付通
     
+    全付通/index
+    全付通/hello
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. toctree::
+    :numbered:
+    :caption: 信e付
+    
+    信e付/index
+    信e付/hello
 
-hello
+
+.. toctree::
+    :numbered:
+    :caption: 间联POS
+    
+    间联POS/index
+    间联POS/hello  

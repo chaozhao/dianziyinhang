@@ -3,7 +3,3 @@
 
 sphinx-build -b html source build
 :caption: Contents:
-
-quanfutong/index
-    xinefu/index
-    jianlian/index
