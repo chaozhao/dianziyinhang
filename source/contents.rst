@@ -13,18 +13,11 @@
     全付通/商户服务和巡检
     全付通/监管文件
     
-.. toctree::
-    :numbered:
-    :maxdepth: 2
-    :glob:
-    :caption: 信e付
-    
-    信e付/hello
 
 .. toctree::
     :numbered:
     :maxdepth: 2
     :glob:
-    :caption: 间联POS
+    :caption: 手机银行
     
-    间联POS/hello
+    mobile/intro  
