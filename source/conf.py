@@ -64,4 +64,5 @@ html_static_path = ['_static']
 
 html_show_sourcelink = False
 
-html_logo = './logo.png'
+# logo地址
+html_logo = './logo.jpg'
